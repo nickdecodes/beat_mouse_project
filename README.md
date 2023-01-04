@@ -1,2 +1,2 @@
-# beat_mouse_project
-beat_mouse_project
+# beat-mouse-project
+beat-mouse-project
